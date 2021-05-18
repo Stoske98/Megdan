@@ -1,6 +1,12 @@
 # Megdan
 Megdan is a strategy hexagonal game with the ultimate goal to kill the enemy king.
 
+## More information
+Status - In development
+Platforms -	Windows
+Author - Stoske98
+Genre	- Strategy
+
 ## How to download the game
 1. Go to https://stoske98.itch.io/megdan
 2. Use password 123456
