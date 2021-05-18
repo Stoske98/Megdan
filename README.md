@@ -4,7 +4,6 @@ Megdan is a strategy hexagonal game with the ultimate goal to kill the enemy kin
 ## More information
 Status - In development
 Platforms -	Windows
-Author - Stoske98
 Genre	- Strategy
 
 ## How to download the game
